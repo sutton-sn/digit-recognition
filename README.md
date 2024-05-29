@@ -37,5 +37,3 @@ The digit-recognition.ipynb file contains all the code necessary to train and ev
 The learning curve of an artificial intelligence model is the curve in which it has fewer errors each time
 
 ![model-loss](model-loss.png)
-
-By Sutton
